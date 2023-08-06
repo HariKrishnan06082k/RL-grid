@@ -1,0 +1,10 @@
+For training give following arguments : 
+ 
+python DQN.py --train_mode 1 --output_path /home/vision/harik/rl-robot/weights/ 
+ 	
+ 
+For testing give following arguments :
+ 
+python DQN.py --train_mode 0 --output_path /home/vision/harik/rl-robot/weights/ --plot_heatmap 1
+ 	
+ 
